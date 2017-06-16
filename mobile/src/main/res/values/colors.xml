@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="backgroundGrey">#F0F0F0</color>
+    <color name="borderGrey">#86999A</color>
+    <color name="text">#212121</color>
+    <color name="white">#fff</color>
+    <color name="colorPrimary">#1FDCE5</color>
+    <color name="colorPrimaryDark">#1AB8BF</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="checkedTint">#86999A</color>
+</resources>

@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Scratch That Habit!</string>
+    <string name="title_activity_lists">Lists</string>
+    <string name="title_activity_weather">Weather</string>
+    <string name="title_activity_edit_lists">Edit list</string>
+    <string name="title_activity_reminders">Reminders</string>
+    <string name="title_activity_reminder_time">Time Reminder</string>
+    <string name="title_activity_reminder_context">Context Reminder</string>
+    <string name="title_activity_graphs">Graphs</string>
+
+    <string name="weekly">Weekly</string>
+    <string name="create_reminder">Create reminder</string>
+    <string name="attach_list_text">Attach a list</string>
+    <string name="add_time">Add a time</string>
+    <string name="attach_reminder_text">Attach a reminder</string>
+    <string name="weather">weather</string>
+    <string name="reminders">reminders</string>
+    <string name="lists">lists</string>
+    <string name="graphs">graphs</string>
+    <string name="pollen">Pollen</string>
+    <string name="arriving">Arriving</string>
+    <string name="leaving">Leaving</string>
+    <string name="humidity">Humidity</string>
+    <string name="sound">Sound</string>
+    <string name="vibration">Vibration</string>
+    <string name="time">Time</string>
+    <string name="context">Context</string>
+</resources>
